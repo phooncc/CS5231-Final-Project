@@ -1,0 +1,1 @@
+apt update;apt install -y git;git clone https://github.com/scumjr/dirtycow-vdso.git;cd dirtycow-vdso/;apt install -y make gcc;apt install -y nasm;apt install -y vim;apt install -y vim;apt install -y net-tools;ifconfig;
